@@ -12,7 +12,7 @@ github_username:  yyyouy
 disqus_baseurl: "https://yyyouy.github.io/"
 disqus_shortname: https-yyyouy-github-io
 permalink: :title
-google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
+google-site-verification: ""
 
 # Build settings
 markdown: kramdown
